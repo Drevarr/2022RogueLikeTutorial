@@ -1,0 +1,50 @@
+Date : 2022-07-31 17:02:20
+Directory : d:\Projects\2022RogueLikeTutorial
+Total : 24 files,  1412 codes, 198 comments, 432 blanks, all 2042 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         23 |      1,409 |        198 |        429 |      2,036 |
+| Markdown |          1 |          3 |          0 |          3 |          6 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                           | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                              |         24 |      1,412 |        198 |        432 |      2,042 |
+| components                                                     |          7 |        199 |         22 |         81 |        302 |
++----------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                       | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\Projects\2022RogueLikeTutorial\README.md                    | Markdown |          3 |          0 |          3 |          6 |
+| d:\Projects\2022RogueLikeTutorial\actions.py                   | Python   |        105 |         18 |         35 |        158 |
+| d:\Projects\2022RogueLikeTutorial\color.py                     | Python   |         14 |          0 |          5 |         19 |
+| d:\Projects\2022RogueLikeTutorial\components\__init__.py       | Python   |          0 |          0 |          1 |          1 |
+| d:\Projects\2022RogueLikeTutorial\components\ai.py             | Python   |         39 |         13 |         19 |         71 |
+| d:\Projects\2022RogueLikeTutorial\components\base_component.py | Python   |         14 |          0 |          6 |         20 |
+| d:\Projects\2022RogueLikeTutorial\components\consumable.py     | Python   |         34 |          6 |         11 |         51 |
+| d:\Projects\2022RogueLikeTutorial\components\fighter.py        | Python   |         49 |          0 |         18 |         67 |
+| d:\Projects\2022RogueLikeTutorial\components\inventory.py      | Python   |         14 |          3 |          8 |         25 |
+| d:\Projects\2022RogueLikeTutorial\components\testFighter.py    | Python   |         49 |          0 |         18 |         67 |
+| d:\Projects\2022RogueLikeTutorial\engine.py                    | Python   |         43 |          2 |         12 |         57 |
+| d:\Projects\2022RogueLikeTutorial\entity.py                    | Python   |        108 |          8 |         22 |        138 |
+| d:\Projects\2022RogueLikeTutorial\entity_factories.py          | Python   |         35 |          0 |          2 |         37 |
+| d:\Projects\2022RogueLikeTutorial\exceptions.py                | Python   |          1 |          4 |          1 |          6 |
+| d:\Projects\2022RogueLikeTutorial\game_map.py                  | Python   |         56 |         10 |         16 |         82 |
+| d:\Projects\2022RogueLikeTutorial\input_handlers.py            | Python   |        210 |         36 |         55 |        301 |
+| d:\Projects\2022RogueLikeTutorial\main.py                      | Python   |         57 |          2 |         15 |         74 |
+| d:\Projects\2022RogueLikeTutorial\message_log.py               | Python   |         51 |         15 |         13 |         79 |
+| d:\Projects\2022RogueLikeTutorial\procgen.py                   | Python   |         91 |         14 |         28 |        133 |
+| d:\Projects\2022RogueLikeTutorial\render_functions.py          | Python   |         34 |          0 |         13 |         47 |
+| d:\Projects\2022RogueLikeTutorial\render_order.py              | Python   |          5 |          0 |          2 |          7 |
+| d:\Projects\2022RogueLikeTutorial\testActions.py               | Python   |        105 |         18 |         43 |        166 |
+| d:\Projects\2022RogueLikeTutorial\testInputHandlers.py         | Python   |        257 |         45 |         79 |        381 |
+| d:\Projects\2022RogueLikeTutorial\tile_types.py                | Python   |         38 |          4 |          7 |         49 |
+| Total                                                          |          |      1,412 |        198 |        432 |      2,042 |
++----------------------------------------------------------------+----------+------------+------------+------------+------------+
