@@ -2,7 +2,6 @@ from __future__ import annotations
 
 from typing import TYPE_CHECKING
 
-
 import color
 from components.base_component import BaseComponent
 from input_handlers import GameOverEventHandler
@@ -10,6 +9,7 @@ from render_order import RenderOrder
 
 if TYPE_CHECKING:
     from entity import Actor
+
 
 class Fighter(BaseComponent):
     parent: Actor
@@ -31,7 +31,7 @@ class Fighter(BaseComponent):
             self.die()
 
     def die(self) -> None:
-        if self.engine.player is self.parent:
+        if self.engine.player is self.entity:
             death_message = "You died!"
             death_message_color = color.player_die
             self.engine.event_handler = GameOverEventHandler(self.engine)
@@ -64,4 +64,4 @@ class Fighter(BaseComponent):
         return amount_recovered
 
     def take_damage(self, amount: int) -> None:
-        self.hp -= amount       
+        self.hp -= amount
