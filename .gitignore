@@ -130,3 +130,6 @@ dmypy.json
 
 # VSCodeCounter Stuff
 .VSCodeCounter/
+
+# Saved games
+*.sav
